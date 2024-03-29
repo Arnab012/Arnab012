@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Arnab Kumar Hansda</h1>
 <h3 align="center">A passionate Mern Stack Development ,Blockchain Development,.Net Development from India</h3>
 
-<img align="center" alt="ythis is an Image of Background" width="1000" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">
+
+<img align="center" alt="ythis is an Image of Background" width="1000" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGN4OWJ2dHN1c3RoY3drcmlqd2F4anBkemdnMjYwd2pkbDl4Z2ppNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnab012" alt="arnab012" /></a> </p>
 
